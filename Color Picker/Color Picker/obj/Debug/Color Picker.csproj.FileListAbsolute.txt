@@ -1,0 +1,14 @@
+E:\Tafe\Diploma Semester 2\Monday\C#\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+E:\Tafe\Diploma Semester 2\Monday\C#\Color Picker\Color Picker\obj\Debug\Color Picker.csprojResolveAssemblyReference.cache
+E:\Tafe\Diploma Semester 2\Monday\C#\Color Picker\Color Picker\obj\Debug\Color_Picker.Form1.resources
+E:\Tafe\Diploma Semester 2\Monday\C#\Color Picker\Color Picker\obj\Debug\Color_Picker.Properties.Resources.resources
+E:\Tafe\Diploma Semester 2\Monday\C#\Color Picker\Color Picker\obj\Debug\Color Picker.csproj.GenerateResource.Cache
+E:\Tafe\Diploma Semester 2\Monday\C#\Color Picker\Color Picker\bin\Debug\Color Picker.exe
+E:\Tafe\Diploma Semester 2\Monday\C#\Color Picker\Color Picker\bin\Debug\Color Picker.pdb
+E:\Tafe\Diploma Semester 2\Monday\C#\Color Picker\Color Picker\bin\Debug\Newtonsoft.Json.dll
+E:\Tafe\Diploma Semester 2\Monday\C#\Color Picker\Color Picker\bin\Debug\Newtonsoft.Json.xml
+E:\Tafe\Diploma Semester 2\Monday\C#\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+E:\Tafe\Diploma Semester 2\Monday\C#\Color Picker\Color Picker\obj\Debug\Color Picker.pdb
+E:\Tafe\Diploma Semester 2\Assignments\C#\Assignment 3 - Mulit-process application and third party library\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+E:\Tafe\Diploma Semester 2\Assignments\C#\Assignment 3 - Mulit-process application and third party library\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+E:\Tafe\Diploma Semester 2\Assignments\C#\Assignment 3 - Mulit-process application and third party library\Color Picker\Color Picker\obj\Debug\Color Picker.pdb

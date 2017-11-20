@@ -1,0 +1,6 @@
+E:\Tafe\Diploma Semester 2\Monday\C#\ColourPickerClient\ColourPickerClient\bin\Debug\ColourPickerClient.exe.config
+E:\Tafe\Diploma Semester 2\Monday\C#\ColourPickerClient\ColourPickerClient\bin\Debug\ColourPickerClient.exe
+E:\Tafe\Diploma Semester 2\Monday\C#\ColourPickerClient\ColourPickerClient\bin\Debug\ColourPickerClient.pdb
+E:\Tafe\Diploma Semester 2\Monday\C#\ColourPickerClient\ColourPickerClient\obj\Debug\ColourPickerClient.csprojResolveAssemblyReference.cache
+E:\Tafe\Diploma Semester 2\Monday\C#\ColourPickerClient\ColourPickerClient\obj\Debug\ColourPickerClient.exe
+E:\Tafe\Diploma Semester 2\Monday\C#\ColourPickerClient\ColourPickerClient\obj\Debug\ColourPickerClient.pdb
